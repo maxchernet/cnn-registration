@@ -5,7 +5,7 @@ import gc
 import numpy as np
 import tensorflow as tf
 from VGG16 import VGG16mo
-from utils.utils import *
+from utils.cnn_utils import *
 import cv2
 from lap import lapjv
 from utils.shape_context import ShapeContext

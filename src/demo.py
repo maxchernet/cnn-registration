@@ -1,7 +1,7 @@
 from __future__ import print_function
 import Registration
 import matplotlib.pyplot as plt
-from utils.utils import *
+from utils.cnn_utils import *
 import cv2
 
 # designate image path here
